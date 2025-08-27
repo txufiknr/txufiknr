@@ -9,19 +9,17 @@
   </tbody>
 </table>
 
-- 👨‍💼 CEO & Founder of **TARRA Soft**, Co-Founder of **TARRA Co**, Software Engineer of **Nurosoft Indonesia**.
+- 👨‍💼 CEO & Founder of **TARRA Soft**, Co-Founder of **TARRA Co**, Senior Software Engineer of **Nurosoft Indonesia**.
 
-- 👨‍💻 Want to see my projects? Check out [My Website (AMP-compliant)](https://www.taufiknur.com/index.html) and also [My Website (fully optimized PHP)](https://www.taufiknur.com/)
-
-- 👥 Connect with me on [My LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/)
+- 👨‍💻 Want to see my Portfolio & CV? Check out [My Website (AMP-compliant)](https://taufiknr.pages.dev/) and [My Website (Pure HTML & Experimental CSS, 100/100 Performance)](https://txufiknr.pages.dev/). You can also check out my [LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/).
 
 - 👀 I'm currently enthusiastic about **Flutter**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** or **anything** you want to know
 
 - 📫 Send me a message **flias.test@gmail.com**
 
 <img src="yukari/4042346.png?raw=true" width="200"/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=topex-psy&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topex-psy&layout=compact)](https://github.com/topex-psy/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=txufiknr&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txufiknr&layout=compact)](https://github.com/txufiknr/github-readme-stats)
