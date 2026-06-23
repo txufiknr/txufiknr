@@ -48,12 +48,36 @@
       <img src="yukari/4042346.png?raw=true" width="200"/>
     </td>
     <td valign="center" width="75%">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" height="48" style="margin: 0 3px 3px 0" />
-      <img src="https://skillicons.dev/icons?i=flutter,dart,vue,angular,js" height="48" style="margin: 0 3px 3px 0" />
-      <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,redis,sequelize" height="48" style="margin: 0 3px 3px 0" />
-      <img src="https://skillicons.dev/icons?i=php,html,css,kotlin,npm" height="48" style="margin: 0 3px 3px 0" />
-      <img src="https://skillicons.dev/icons?i=pnpm,git,github,docker,mysql" height="48" style="margin: 0 3px 3px 0" />
-      <img src="https://skillicons.dev/icons?i=vite,gcp,vscode,wordpress,jquery" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=react" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=ts" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=flutter" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=dart" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=vue" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=angular" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=js" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=express" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=redis" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=sequelize" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=php" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=html" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=css" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=kotlin" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=npm" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=pnpm" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=git" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=github" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=docker" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=vite" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=wordpress" height="48" style="margin: 0 3px 3px 0" />
+      <img src="https://skillicons.dev/icons?i=jquery" height="48" style="margin: 0 3px 3px 0" />
     </td>
   </tr>
 </table>
